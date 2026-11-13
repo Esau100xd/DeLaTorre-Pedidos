@@ -9,7 +9,7 @@ def calcular_envio(subtotal):
     else:
         return 20
 
-precio = 80
+precio = 150
 cantidad = 3
 # De La Torre: Procesamiento de valores del pedido
 subtotal = calcular_subtotal(precio, cantidad)
