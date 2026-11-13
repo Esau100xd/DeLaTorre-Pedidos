@@ -1,6 +1,6 @@
 def calcular_subtotal(precio, cantidad):
     # De La Torre: Retorna el precio base unitario por ahora
-    return precio
+    return precio * cantidad
 
 precio = 80
 cantidad = 3
